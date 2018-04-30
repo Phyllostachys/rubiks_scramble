@@ -1,0 +1,7 @@
+[package]
+name = "rubiks_scramble"
+version = "0.1.0"
+authors = ["Jacob Shaffer <jpshaffer5481@gmail.com>"]
+
+[dependencies]
+rand = "0.4"
